@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2207762\\source\\repos\\VendorAvailabilitySystem\\VendorAvailabilitySystem.csproj",
+      "projectUniqueName": "C:\\Users\\2207762\\source\\repos\\ZeroCater\\VendorAvailabilitySystem\\VendorAvailabilitySystem.csproj",
       "projectName": "VendorAvailabilitySystem",
-      "projectPath": "C:\\Users\\2207762\\source\\repos\\VendorAvailabilitySystem\\VendorAvailabilitySystem.csproj",
+      "projectPath": "C:\\Users\\2207762\\source\\repos\\ZeroCater\\VendorAvailabilitySystem\\VendorAvailabilitySystem.csproj",
       "packagesPath": "C:\\Users\\2207762\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2207762\\source\\repos\\VendorAvailabilitySystem\\obj\\",
+      "outputPath": "C:\\Users\\2207762\\source\\repos\\ZeroCater\\VendorAvailabilitySystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
