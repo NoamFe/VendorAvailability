@@ -1,0 +1,11 @@
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\bin\Debug\netcoreapp3.0\VendorAvailabilitySystem.exe
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\bin\Debug\netcoreapp3.0\VendorAvailabilitySystem.deps.json
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\bin\Debug\netcoreapp3.0\VendorAvailabilitySystem.runtimeconfig.json
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\bin\Debug\netcoreapp3.0\VendorAvailabilitySystem.runtimeconfig.dev.json
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\bin\Debug\netcoreapp3.0\VendorAvailabilitySystem.dll
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\bin\Debug\netcoreapp3.0\VendorAvailabilitySystem.pdb
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\obj\Debug\netcoreapp3.0\VendorAvailabilitySystem.csprojAssemblyReference.cache
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\obj\Debug\netcoreapp3.0\VendorAvailabilitySystem.AssemblyInfoInputs.cache
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\obj\Debug\netcoreapp3.0\VendorAvailabilitySystem.AssemblyInfo.cs
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\obj\Debug\netcoreapp3.0\VendorAvailabilitySystem.dll
+C:\Users\2207762\source\repos\VendorAvailabilitySystem\obj\Debug\netcoreapp3.0\VendorAvailabilitySystem.pdb
